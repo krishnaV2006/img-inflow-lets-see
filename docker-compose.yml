@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER:-imgflow}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-imgflow}
+      - POSTGRES_DB=${POSTGRES_DB:-imgflow}
+    volumes:
+      - ~/img-flow/postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-imgflow}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app/backend
+      - ./frontend:/app/frontend
+      - ./local_storage:/app/backend/local_storage
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-imgflow}:${POSTGRES_PASSWORD:-imgflow}@db:5432/${POSTGRES_DB:-imgflow}
+      - POSTGRES_USER=${POSTGRES_USER:-imgflow}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-imgflow}
+      - POSTGRES_DB=${POSTGRES_DB:-imgflow}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_API_KEY_1=${GEMINI_API_KEY_1}
+      - GEMINI_API_KEY_2=${GEMINI_API_KEY_2}
+      - GEMINI_API_KEY_3=${GEMINI_API_KEY_3}
+      - GEMINI_API_KEY_4=${GEMINI_API_KEY_4}
+      - GEMINI_API_KEY_5=${GEMINI_API_KEY_5}
+      - FIREFLY_API_KEY=${FIREFLY_API_KEY}
+      - FIREFLY_CLIENT_ID=${FIREFLY_CLIENT_ID}
+      - ADMIN_USERNAME=${ADMIN_USERNAME}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
+      - SECRET_KEY=${SECRET_KEY}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_REGION=${AWS_REGION:-ap-south-1}
+      - S3_BUCKET_NAME=${S3_BUCKET_NAME}
+    restart: unless-stopped
+

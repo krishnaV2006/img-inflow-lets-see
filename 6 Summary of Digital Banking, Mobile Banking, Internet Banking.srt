@@ -1,0 +1,254 @@
+﻿1
+00:00:00,000 --> 00:00:03,962
+So let's get into the topic of digital
+banking and delivery channels.
+
+2
+00:00:04,087 --> 00:00:05,922
+What is the meaning of digital banking?
+
+3
+00:00:05,922 --> 00:00:08,341
+Digital banking
+means providing banking services
+
+4
+00:00:08,341 --> 00:00:11,052
+through electronic channels
+instead of visiting a bank branch.
+
+5
+00:00:11,052 --> 00:00:14,514
+All the services are available
+like you can anytime go.
+
+6
+00:00:14,514 --> 00:00:18,018
+you can use your, the services
+at any point of time from anywhere,
+
+7
+00:00:18,018 --> 00:00:21,354
+using the support of the internet
+or your mobile devices.
+
+8
+00:00:21,479 --> 00:00:24,441
+The advantage for us
+is that in spite of going
+
+9
+00:00:24,441 --> 00:00:27,569
+all the way to the bank,
+you can do this from your residence
+
+10
+00:00:27,777 --> 00:00:30,739
+or from wherever, the place
+from where you are today.
+
+11
+00:00:30,739 --> 00:00:34,242
+Operating
+digital bank delivers channels, banks
+
+12
+00:00:34,242 --> 00:00:37,412
+provide digital services
+through internet banking.
+
+13
+00:00:37,412 --> 00:00:41,291
+Then we have mobile banking,
+then ATM, ATM cards,
+
+14
+00:00:41,291 --> 00:00:45,336
+debit cards, credit cards, and RuPay.
+
+15
+00:00:45,420 --> 00:00:47,338
+So, these are the cards
+which are available,
+
+16
+00:00:47,338 --> 00:00:50,800
+Then we also have, you know,
+electronic fund transfer systems.
+
+17
+00:00:51,134 --> 00:00:52,594
+So these are all the channels
+
+18
+00:00:52,594 --> 00:00:56,556
+which are available in digital banking
+to provide us with the quick services.
+
+19
+00:00:56,765 --> 00:00:58,850
+Similarly internet banking.
+
+20
+00:00:58,850 --> 00:01:03,021
+So internet banking allows you,
+the customers to access bank services
+
+21
+00:01:03,521 --> 00:01:08,818
+using your either your computer laptops
+or, through your internet connection.
+
+22
+00:01:08,860 --> 00:01:10,820
+Even the services are available,
+
+23
+00:01:10,820 --> 00:01:14,282
+for transferring your funds,
+paying your electricity bills.
+
+24
+00:01:14,574 --> 00:01:16,534
+No checking any of any of the thing.
+
+25
+00:01:16,534 --> 00:01:18,661
+Check your account balances.
+
+26
+00:01:18,661 --> 00:01:21,206
+Suddenly
+you want to download your, statements.
+
+27
+00:01:21,206 --> 00:01:24,501
+Now, you can use the services
+through internet banking to,
+
+28
+00:01:25,251 --> 00:01:27,629
+to get your, required documents.
+
+29
+00:01:27,629 --> 00:01:30,298
+Similarly, we have mobile banking.
+
+30
+00:01:30,298 --> 00:01:33,301
+Mobile banking? Is banking? No.
+
+31
+00:01:33,384 --> 00:01:34,260
+Through your phone.
+
+32
+00:01:34,260 --> 00:01:35,637
+every bank has their
+
+33
+00:01:35,637 --> 00:01:38,723
+particular applications where in which
+you can download the application
+
+34
+00:01:38,723 --> 00:01:42,060
+and use, your mobile
+banking to that respective application.
+
+35
+00:01:42,894 --> 00:01:45,522
+There is also, services of SMEs.
+
+36
+00:01:45,522 --> 00:01:48,483
+No. Wherein you get to know, understand
+
+37
+00:01:48,483 --> 00:01:52,529
+what is the balance which is available or,
+whether the funds have been transferred.
+
+38
+00:01:52,612 --> 00:01:55,031
+So you can use the services
+like for example,
+
+39
+00:01:55,031 --> 00:01:56,783
+If you want to know
+what is the balance inquiry.
+
+40
+00:01:56,783 --> 00:01:57,951
+You do a balance inquiry.
+
+41
+00:01:57,951 --> 00:02:00,453
+You get an
+SMS through the mobile. application.
+
+42
+00:02:00,453 --> 00:02:02,705
+Or you can even look into your mobile app.
+
+43
+00:02:02,705 --> 00:02:05,500
+Similarly, fund transfers,
+if you would like to do some fund
+
+44
+00:02:05,500 --> 00:02:07,794
+transfers or bill payments.
+
+45
+00:02:07,794 --> 00:02:10,463
+No. Again, you can pay the,
+
+46
+00:02:10,463 --> 00:02:13,716
+of your credit cards
+or, repayments or loans.
+
+47
+00:02:13,967 --> 00:02:18,304
+You can use the services which is readily
+available through the mobile banking.
+
+48
+00:02:18,429 --> 00:02:21,808
+The concept of mobile
+banking, is very important
+
+49
+00:02:21,850 --> 00:02:25,395
+because, is linked to your, your customers
+bank account.
+
+50
+00:02:25,728 --> 00:02:28,606
+Basically, the customer's bank account,
+the mobile is been linked
+
+51
+00:02:28,606 --> 00:02:30,066
+to your customer bank account.
+
+52
+00:02:30,066 --> 00:02:33,653
+Then you get a user ID,
+and now you get a OTP and pin,
+
+53
+00:02:34,112 --> 00:02:36,698
+through
+which you can actually use this services.
+
+54
+00:02:36,698 --> 00:02:39,701
+So and once you authenticate your OTP,
+
+55
+00:02:39,868 --> 00:02:42,912
+there's a,
+services can be, not freely utilized.
